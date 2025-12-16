@@ -41,7 +41,10 @@ A modern, fully functional calculator application built using **React** and **Ta
 
 ## 📦 Installation & Setup
 cd Professional-Calculator
+
 npm install
+
 npm start
+
 http://localhost:3000
 
